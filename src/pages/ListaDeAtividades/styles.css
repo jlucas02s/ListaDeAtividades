@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid, 3px, #fff;
+    text-align: center;
+    padding: 50px;
+    
+    content: 15px;
+    
+}
+.texto{
+    background-color: rgb(121, 188, 255);
+margin-left: 30px;
+margin-right: 30px;
+ width: 200px;
+ height: 35px;
+}
+
+.link{
+    margin-left: 30px;
+    margin-right: 30px;
+    border: solid red 3px;
+    border-radius: 10px;
+    padding: 5px;
+}

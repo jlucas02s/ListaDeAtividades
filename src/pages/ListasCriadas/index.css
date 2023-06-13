@@ -1,0 +1,20 @@
+*{
+    margin: 50rem;
+}
+.view{
+font-size: 30px;
+box-shadow: 10px 20px rgb(70, 104, 255);
+
+border: 30px solid blue;
+background-color: rgb(150, 215, 255);
+transition: 1s; 
+font-size: 40px;
+cursor: pointer;
+
+
+ 
+border: 30px solid blue;
+background-color: rgb(150, 215, 255);
+transition: 1s; 
+
+}
